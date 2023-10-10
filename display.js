@@ -9,3 +9,5 @@ console.log(myNetwork.activate([1,0]));
 
 console.log(myNetwork.activate([1,1]));  
 // -> [0.012950087641929467]
+
+document.getElementById('content').innerHTML = computerChoice
