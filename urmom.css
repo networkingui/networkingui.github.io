@@ -1,3 +1,48 @@
-.myImage {
-  background-image: url("Screenshot-2023-10-06-13.43.09.png");
+
+
+h1 {
+  border: 5px solid white
+}
+ 
+h1{
+  border-style: ridge
+}
+
+body {
+  background-image: url("
+h1 {
+  border: 5 px solid white
+}
+ 
+h1{
+  border-style: ridge
+}
+
+body {
+  background-image: url("photo-1506318137071-a8e063b4bec0.jpeg");
+}
+
+button {
+  border : 10 px solid white 
+};
+
+button {
+  float left: inherit
+};
+
+marquee {
+  text-decoration-color : white
+}");
+}
+
+button {
+  border : 10 px solid white 
+};
+
+button {
+  float left: inherit
+};
+
+marquee {
+  text-decoration-color : white
 }
