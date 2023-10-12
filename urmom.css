@@ -1,48 +1,42 @@
+  
 
+
+body{
+  background-image: Screenshotimage(Screenshot 2023-10-06 13.43.09.png) 
+}; 
+
+marquee{
+  color: #0be3fd
+};
+
+h2{
+  text-decoration-color:  color: orangered;
+};
+
+h1{
+  align-content: center
+};  
+h1{
+  content: inherit
+}
+h1 {
+  text-align: center
+}
+p{
+  text-align: center
+}
+h2{
+ text-align: center
+}
+p{
+  color: blue
+}
 
 h1 {
-  border: 5px solid white
-}
- 
-h1{
-  border-style: ridge
+  border: 4px solid blue;
 }
 
-body {
-  background-image: url("
-h1 {
-  border: 5 px solid white
-}
- 
-h1{
-  border-style: ridge
+marquee{
+  border: 2px solid blue; 
 }
 
-body {
-  background-image: url("Screenshot 2023-10-06 13.43.09.png");
-}
-
-button {
-  border : 10 px solid white 
-};
-
-button {
-  float left: inherit
-};
-
-marquee {
-  text-decoration-color : white
-}");
-}
-
-button {
-  border : 10 px solid white 
-};
-
-button {
-  float left: inherit
-};
-
-marquee {
-  text-decoration-color : white
-}
