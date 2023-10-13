@@ -10,6 +10,6 @@ var  c = console.log(myNetwork.activate([1,0]));
  var d = console.log(myNetwork.activate([1,1]));  
 // -> [0.012950087641929467]
 
-var computerChoice = concat(${a},${b},${c},${d} );
+var computerChoice = concat(a,b,c,d);
 
 document.getElementById('content').innerHTML = computerChoice
