@@ -1,11 +1,8 @@
 
 
-body{
-  background-image: url(Screenshot 2023-10-12 12.43.09.png) 
-}; 
 
 marquee{
-  color: #0be3fd
+  color: blue
 };
 
 h2{
@@ -64,6 +61,13 @@ h2{
 }
 
 form{
+  color: blue
+}
+
+h3{
+  text-align: center
+}
+h1{
   color: blue
 }
 
