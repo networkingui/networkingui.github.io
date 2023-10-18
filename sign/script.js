@@ -1,8 +1,10 @@
-var ymaluser = user; 
-var input = userdata'
+var ymaluser = user;
+var input = useremail; 
+
+inputType = "email"
 
 
-OnClick(SendMail(User=input; input="innerHTML"));
+OnClick(SendMail(User="input"));
 
 
   
