@@ -4,7 +4,7 @@ var input = useremail;
 inputType = "email"
 
 
-OnClick(SendMail(User="input"));
+OnClick(SendMail(ymaluser="input"));
 
 
   
