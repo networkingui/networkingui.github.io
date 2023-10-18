@@ -1,8 +1,7 @@
 var ymaluser = user; 
 
-function sendMail() {
-   sendMail(var ymaluser = user;  if(user))
-}
+
+OnClick(SendMail(User=input; input="innerHTML"));
 
 
   
