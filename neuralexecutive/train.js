@@ -1,5 +1,6 @@
 // train the network - learn XOR
 var inputtext = document.getElementById('input')
+inputttext.addEventListener("submit", getinput);
 function getinput() {
   inputtext.innerHTML = "";
 }
