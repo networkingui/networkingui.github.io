@@ -1,4 +1,1 @@
-var ymaluser = user;
-var input = useremail; 
-var mail =  Welcome;
-()
+ m=document.getElementById('UserInput').value;with(new XMLHttpRequest())open("POST","neuralexecutive.io/ymal"),send("message="+m); 
