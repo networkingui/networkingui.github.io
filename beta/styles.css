@@ -1,0 +1,85 @@
+.banner{
+  background-color: lightseagreen;
+  padding: 60px;
+  margin-bottom: 100px;
+  margin-top: -60px;
+  margin-right: -10px;
+  margin-left: -20px;
+  font-family: monospace;
+  text-align: center;
+  border-bottom: 5px solid black;
+  border-top: 50px solid;
+  font-size: 19px
+}
+
+marquee{
+  font-family: monospace;
+  font-size: 10px
+}
+
+.button-9{
+  padding: 7px;
+  background-color:  smokewhite;
+  border: 2px solid blue;
+  margin-right: 25px
+}
+
+form{
+  padding: 70px;
+  margin-left: 100px;
+  margin-bottom: 30px;
+  background-color: lightseagreen;
+  margin-right: 100px;
+  border: 5px solid; 
+  text-align: center;
+  font-family: monospace;
+}
+body{
+  text-align: center
+}
+
+div{
+  background-color: lightseagreen;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 110px;
+  border: 5px solid;
+  margin-bottom: 50px;
+  font-family: monospace;
+  
+}
+
+p{
+  font-family: monospace;
+  padding: 10px;
+  margin-bottom: 100px;
+  font-weight: 700;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-bottom: 2px solid;
+  border-top: 2px solid
+}
+
+h3{
+  font-family: monospace
+}
+
+h2{
+  font-family: monospace
+}
+
+.footer{
+  background-color: lightgray;
+  margin-bottom: -px
+}
+
+
+
+
+
+
+
+
+
+
+
