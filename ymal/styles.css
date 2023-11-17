@@ -1,0 +1,39 @@
+.banner{
+  text-align: center;
+  margin-bottom: 60px;
+  padding: 60px;
+  background-color: lightslategray;
+  margin-right: -30px;
+  margin-left: -30px;
+  margin-top: -10px;
+  border-bottom: 5px solid black;
+  font-size: 19px;
+  font-family: monospace;
+  font-weight: 1000;
+}
+
+label{
+ 
+  margin-left: 30px;
+  margin-right: 30px;
+  background-color: gainsboro;
+  text-align: center;
+  border: .002px solid blue
+}
+
+.button-10{
+  padding: 10px;
+ margin-right: 30px;
+  margin-left: 30px;
+  margin-top: 30px;
+  border: 2px solid blue;
+}
+
+div{
+  background-color: gainsboro;
+}
+
+
+body{
+  text-align: center
+}
