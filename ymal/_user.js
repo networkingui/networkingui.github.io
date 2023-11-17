@@ -3,11 +3,11 @@ ContentEditable(true);
 
  
 
-var  EnterEmail = new Name()
+var  email = new Name()
 
-  var EnterPassword = new Email()
+  var psw = new Email()
 
 
-  var RepeatPassword = new Password()
+  var pswrepeat = new Password()
 
   
