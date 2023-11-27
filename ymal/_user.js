@@ -13,5 +13,5 @@ var  email = new Name()
 
 };
 
-GetElementById(InnerHtml="Info")
+GetElementById("Info")
   
