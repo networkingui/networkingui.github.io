@@ -1,7 +1,7 @@
 ContentEditable(true);
 
 
-function myFunction() { 
+function RememberMe() { 
  
 
 var  email = new Name()
