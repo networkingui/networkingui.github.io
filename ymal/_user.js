@@ -1,7 +1,6 @@
 ContentEditable(true);
 
 
- 
 
 var  email = new Name()
 
@@ -10,4 +9,7 @@ var  email = new Name()
 
   var pswrepeat = new Password()
 
+
+
+GetElementById(InnerHtml="Info")
   
