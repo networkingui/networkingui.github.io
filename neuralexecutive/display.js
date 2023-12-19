@@ -12,4 +12,8 @@ var  c = console.log(myNetwork.activate([1,0]));
 
 var computerChoice = concat(a,b,c,d);
 
+
+
+getoutput() {
 document.getElementById('content').innerHTML = computerChoice
+};
