@@ -16,4 +16,6 @@ var computerChoice = concat(a,b,c,d);
 
 getoutput() {
 document.getElementById('content').innerHTML = computerChoice
+
+ if(getoutput= 0; computerChoice = nil)
 };
