@@ -16,9 +16,13 @@ if z = c:
     print("Tasks completed")
 if z = f:
     print("Tasks not completed")
-if
-  
 
+
+turlte.onclick(MyFun, btn=1, add=none)
+
+def Myfun():
+    print("test turtle onclick")
+MyFun()
     
 
 
