@@ -23,6 +23,7 @@ turlte.onclick(MyFun, btn=1, add=none)
 def Myfun():
     print("test turtle onclick")
 MyFun()
+
     
 
 
