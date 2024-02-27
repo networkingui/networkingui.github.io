@@ -1,5 +1,6 @@
 
 
+
 import os
 
 from cryptography.fernet import Fernet
@@ -24,14 +25,14 @@ user_phrase = input("enter the passkey to dycrypt and recover files\n")
 
 if user_phrase == secretphrase:
     for file in files:
-         with open(file, "rb") as the file:
+         with open(file, "rb") as thefile:
              contents = thefile.read()
          contents_decrypted = Fernet(secretkey).decrypt(contents)
          with open(file, "wb") as thefile:
              thefile.write(contents_decrypted)
          print("files decrypted")
 else:
-    print("wrong passkey)
+	print("wrong passkey")
 
 
   
